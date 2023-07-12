@@ -1,5 +1,5 @@
 # Shaye-Tay
-**bold text** Shatavia's first website
+** Shatavia's first website**
 This website is showing what it looks like to create one for the first time
 ![Some text of what the picture is](Shatavia.jpg)
 I enjoy:
